@@ -17,3 +17,11 @@ Originated in UNSW COMP4337/9337. The MITM/Evil Twin work is a two-person lab; i
 ## Verification status
 
 These are retrospective notes, not freshly reproduced experiments. Targets, original evidence and supplied course materials are not bundled. No current-service behavior or new experimental result is claimed.
+
+
+## Historical reports
+
+The reports preserve saved coursework observations and team context. They are not fresh benchmark or runtime verification.
+
+- [Historical lab reports](REPORTS.md)
+- [Corrections and missing evidence](docs/report-review-notes.md)
